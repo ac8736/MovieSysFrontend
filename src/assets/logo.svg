@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="128" viewBox="0 0 256 128" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 128 64)" id="65ebbf08-7fde-43a8-8ba8-0f7395e697df"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(94,180,159); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-128" y="-64" rx="0" ry="0" width="256" height="128" />
+</g>
+<g transform="matrix(0 0 0 0 0 0)" id="2b5911d5-9de3-4344-aa72-e56cc1ca0175"  >
+</g>
+<g transform="matrix(0.61 0 0 0.61 208.1 43.63)" id="ff0b9e30-3b5a-45b4-882a-a2e302b22b5f"  >
+<rect style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(246,77,77); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" />
+</g>
+<g transform="matrix(0.71 0 0 0.71 231.34 64)" id="bd9ad122-66c5-447e-83ce-b800c8eb67d8"  >
+<polygon style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(78,107,240); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-30.68,-37.41 30.68,0 -30.68,37.41 " />
+</g>
+<g transform="matrix(0.69 0 0 0.69 199.15 85.6)" id="937cf65f-b064-4c3a-8af5-4d1e9f5507ec"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(96,168,144); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="35" />
+</g>
+<g transform="matrix(0.43 0 0 0.43 128.31 64.08)" style="" id="3eed27f3-372e-4037-9db9-51ed1bb8c079"  >
+		<text xml:space="preserve" font-family="Raleway" font-size="105" font-style="normal" font-weight="900" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-237.98" y="32.98" >MovieSys</tspan></text>
+</g>
+</svg>
